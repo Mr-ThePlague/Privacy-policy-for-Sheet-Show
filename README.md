@@ -1,4 +1,3 @@
-# Privacy-policy-for-Sheet-Show
 # Privacy Policy — Sheet Show: The Idle Spreadsheet Game
 
 **Effective date:** April 6, 2026
